@@ -25,7 +25,7 @@
       },
       {
         "repo_name": "ChessClassic",
-        "custom_description": "A modern chess game built with WebSockets",
+        "custom_description": "A modern chess game built with WebSockets and Chess.js Library",
         "highlight": false,
         "demo_url": "https://beckettfrey.com",
         "tech_stack": ["React", "Node", "Express", "WebSockets"],
