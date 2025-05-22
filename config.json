@@ -19,7 +19,7 @@
         "highlight": false,
         "demo_url": "https://beckettfrey.com",
         "tech_stack": ["Django"],
-        "languages": ["Python"]
+        "languages": ["Python"],
         "order": 2
       }
     ]
