@@ -18,7 +18,8 @@
         "custom_description": "Efficient scheduling system for teaching assistants",
         "highlight": false,
         "demo_url": "https://beckettfrey.com",
-        "tech_stack": ["Python", "Django"],
+        "tech_stack": ["Django"],
+        "languages": ["Python"]
         "order": 2
       }
     ]
