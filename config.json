@@ -4,26 +4,21 @@
       "title": "My Projects",
       "description": "A curated collection of projects I've built and contributed to. Each represents a unique challenge and learning experience."
     },
-    "footer": {
-      "text": "Projects dynamically loaded from GitHub",
-      "githubLinkText": "profile",
-      "githubUrl": "https://github.com/BeckettFrey"
-    },
     "featured_projects": [
       {
         "repo_name": "ChessClassic",
         "custom_description": "A modern chess game built with advanced AI and sleek UI",
         "highlight": true,
-        "demo_url": "https://your-chess-game.com",
-        "tech_stack": ["React", "Node.js", "Socket.io", "AI"],
+        "demo_url": "https://beckettfrey.com",
+        "tech_stack": ["React", "Node", "Express", "Socket.io"],
         "order": 1
       },
       {
         "repo_name": "TA-Scheduling-App",
         "custom_description": "Efficient scheduling system for teaching assistants",
         "highlight": false,
-        "demo_url": "https://ta-scheduler.com",
-        "tech_stack": ["Python", "Django", "PostgreSQL"],
+        "demo_url": "https://beckettfrey.com",
+        "tech_stack": ["Python", "Django"],
         "order": 2
       }
     ]
@@ -41,7 +36,7 @@
           "subtitle": "UW-Milwaukee"
         },
         "role": {
-          "title": "Developer",
+          "title": "Aspiring Developer",
           "subtitle": "Full Stack"
         }
       }
@@ -100,7 +95,7 @@
           "platform": "LinkedIn",
           "url": "https://www.linkedin.com/in/beckettfrey",
           "icon": "FaLinkedin",
-          "iconColor": "blue-700"
+          "iconColor": "blue"
         }
       ]
     }
