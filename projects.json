@@ -1,5 +1,73 @@
 {
   "projects": {
+     "header": {
+      "title": "My Projects",
+      "description": "A curated collection of projects I've built and contributed to. Each represents a unique challenge and learning experience."
+    },
+    "loading": {
+      "message": "Loading portfolio projects..."
+    },
+    "error": {
+      "title": "Setup Required",
+      "emoji": "⚙️",
+      "instructions": [
+        "Create a repository named \"portfolio-config\"",
+        "Add a \"projects.json\" file",
+        "List your featured projects"
+      ],
+      "tryAgainButton": "Try Again"
+    },
+    "stats": {
+      "projects": {
+        "title": "Featured Projects"
+      },
+      "languages": {
+        "title": "Languages Used"
+      },
+      "highlighted": {
+        "title": "Highlighted"
+      }
+    },
+    "projects": {
+      "highlightBadge": "⭐ FEATURED PROJECT",
+      "techStackLabel": "Tech Stack:",
+      "noDescription": "No description available",
+      "viewCodeButton": "View Code",
+      "liveDemoButton": "Live Demo"
+    },
+    "empty": {
+      "emoji": "🚀",
+      "title": "No projects configured yet",
+      "description": "Set up your portfolio configuration to showcase your best work!",
+      "githubButton": "Visit My GitHub",
+      "githubUrl": "https://github.com/BeckettFrey"
+    },
+    "setup": {
+      "title": "💡 How to Update Your Projects",
+      "instructions": [
+        {
+          "text": "Go to your",
+          "code": "portfolio-config",
+          "afterText": "repository"
+        },
+        {
+          "text": "Edit the",
+          "code": "projects.json",
+          "afterText": "file"
+        },
+        {
+          "text": "Add, remove, or reorder your featured projects"
+        },
+        {
+          "text": "Changes will appear automatically on your website!"
+        }
+      ]
+    },
+    "footer": {
+      "text": "Projects dynamically loaded from GitHub",
+      "githubLinkText": "profile",
+      "githubUrl": "https://github.com/BeckettFrey"
+    },
     "featured_projects": [
       {
         "repo_name": "ChessClassic",
@@ -99,76 +167,6 @@
     "footer": {
       "credits": "Icons by React Icons",
       "creditsUrl": "https://react-icons.github.io/react-icons/"
-    }
-  },
-  "projectsUI": {
-    "header": {
-      "title": "My Projects",
-      "description": "A curated collection of projects I've built and contributed to. Each represents a unique challenge and learning experience."
-    },
-    "loading": {
-      "message": "Loading portfolio projects..."
-    },
-    "error": {
-      "title": "Setup Required",
-      "emoji": "⚙️",
-      "instructions": [
-        "Create a repository named \"portfolio-config\"",
-        "Add a \"projects.json\" file",
-        "List your featured projects"
-      ],
-      "tryAgainButton": "Try Again"
-    },
-    "stats": {
-      "projects": {
-        "title": "Featured Projects"
-      },
-      "languages": {
-        "title": "Languages Used"
-      },
-      "highlighted": {
-        "title": "Highlighted"
-      }
-    },
-    "projects": {
-      "highlightBadge": "⭐ FEATURED PROJECT",
-      "techStackLabel": "Tech Stack:",
-      "noDescription": "No description available",
-      "viewCodeButton": "View Code",
-      "liveDemoButton": "Live Demo"
-    },
-    "empty": {
-      "emoji": "🚀",
-      "title": "No projects configured yet",
-      "description": "Set up your portfolio configuration to showcase your best work!",
-      "githubButton": "Visit My GitHub",
-      "githubUrl": "https://github.com/BeckettFrey"
-    },
-    "setup": {
-      "title": "💡 How to Update Your Projects",
-      "instructions": [
-        {
-          "text": "Go to your",
-          "code": "portfolio-config",
-          "afterText": "repository"
-        },
-        {
-          "text": "Edit the",
-          "code": "projects.json",
-          "afterText": "file"
-        },
-        {
-          "text": "Add, remove, or reorder your featured projects"
-        },
-        {
-          "text": "Changes will appear automatically on your website!"
-        }
-      ]
-    },
-    "footer": {
-      "text": "Projects dynamically loaded from GitHub",
-      "githubLinkText": "profile",
-      "githubUrl": "https://github.com/BeckettFrey"
     }
   }
 }
