@@ -3,7 +3,7 @@
     "title": "About Me"
   },
   "profile": {
-    "greeting": "Hey there! 👋",
+    "greeting": "Hey there! &#x1F44B;",
     "name": "Beckett",
     "introduction": "I'm {name}, a passionate senior developer from Milwaukee, Wisconsin, with a BS in Computer Science from UW-Milwaukee. I thrive on creating innovative solutions and pushing the boundaries of what's possible with code.",
     "quickStats": {
