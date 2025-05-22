@@ -11,7 +11,7 @@
         "highlight": true,
         "demo_url": "https://beckettfrey.com",
         "tech_stack": ["React", "Node", "Express", "WebSockets"],
-        "languages": ["Python, CSS"],
+        "languages": ["Python", "CSS"],
         "order": 1
       },
       {
