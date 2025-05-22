@@ -10,7 +10,8 @@
         "custom_description": "A modern chess game built with advanced AI and sleek UI",
         "highlight": true,
         "demo_url": "https://beckettfrey.com",
-        "tech_stack": ["React", "Node", "Express", "Socket.io"],
+        "tech_stack": ["React", "Node", "Express", "WebSockets"],
+        "languages": ["Python, CSS"],
         "order": 1
       },
       {
