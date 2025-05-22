@@ -6,13 +6,31 @@
     },
     "featured_projects": [
       {
+        "repo_name": "UPlant",
+        "custom_description": "Garden managment and education platform for the novice",
+        "highlight": true,
+        "demo_url": "https://beckettfrey.com",
+        "tech_stack": ["Django", "React", "Vite", "Docker"],
+        "languages": ["Python", "JavaScript"],
+        "order": 1
+      },
+      {
+        "repo_name": "MyWebsite",
+        "custom_description": "Efficient scheduling system for teaching assistants",
+        "highlight": true,
+        "demo_url": "https://beckettfrey.com",
+        "tech_stack": ["React", "Vite", "TailWind"],
+        "languages": ["Python", "JavaScript"],
+        "order": 2
+      },
+      {
         "repo_name": "ChessClassic",
-        "custom_description": "A modern chess game built with advanced AI and sleek UI",
+        "custom_description": "A modern chess game built with WebSockets",
         "highlight": true,
         "demo_url": "https://beckettfrey.com",
         "tech_stack": ["React", "Node", "Express", "WebSockets"],
-        "languages": ["Python", "CSS"],
-        "order": 1
+        "languages": ["Python", "JavaScript", "CSS"],
+        "order": 3
       },
       {
         "repo_name": "TA-Scheduling-App",
