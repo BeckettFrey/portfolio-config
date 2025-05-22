@@ -1,23 +1,4 @@
 {
-  "featured_projects": [
-    {
-      "repo_name": "ChessClassic",
-      "custom_description": "A modern chess game built with advanced AI and sleek UI",
-      "highlight": true,
-      "demo_url": "https://your-chess-game.com",
-      "tech_stack": ["React", "Node.js", "Socket.io", "AI"],
-      "order": 1
-    },
-    {
-      "repo_name": "TA-Scheduling-App",
-      "custom_description": "Efficient scheduling system for teaching assistants",
-      "highlight": false,
-      "demo_url": "https://ta-scheduler.com",
-      "tech_stack": ["Python", "Django", "PostgreSQL"],
-      "order": 2
-    }
-  ],
-  
   "header": {
     "title": "About Me"
   },
@@ -97,7 +78,7 @@
   "footer": {
     "credits": "Icons by React Icons",
     "creditsUrl": "https://react-icons.github.io/react-icons/"
-  },
+  }
   {
   "header": {
     "title": "My Projects",
@@ -146,4 +127,5 @@
     "githubLinkText": "profile",
     "githubUrl": "https://github.com/BeckettFrey"
   }
+}
 }
